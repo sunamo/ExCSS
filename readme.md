@@ -1,5 +1,9 @@
 # ExCSS StyleSheet Parser for .NET - It's *BADA55!*
 
+## Short description
+
+Fork parseru CSS 2.1 a CSS 3 pro .NET s objektovým modelem a podporou LINQ. Obsahuje zdrojový kód knihovny a rozsáhlé testy. Sloužil jako zdroj pro vlastní úpravy.
+
 ExCSS (Pronounced Excess) is a CSS 2.1 and CSS 3 parser for .NET.
 
 The goal of ExCSS is to make it easy to read and parse stylesheets into a friendly object model with full LINQ support.
