@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Folder Name="/src/">
+    <Project Path="src/ExCSS.Tests/ExCSS.Tests.csproj" />
+    <Project Path="src/ExCSS/ExCSS.csproj" />
+  </Folder>
+</Solution>
